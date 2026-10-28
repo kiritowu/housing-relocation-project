@@ -1,5 +1,11 @@
 # High Lives: The Poetics and Politics of Housing Relocation in Singapore Social and Literary History
 
+## Research team
+
+**Principal Investigator:** [Dr Chan Cheow Thia](https://discovery.nus.edu.sg/4390-cheow-thia-chan)
+
+**Research Assistant:** Wong Zhao Wu
+
 ## Background
 
 The project examines how housing relocation in Singapore was represented and debated in public discourse, drawing on historical newspaper articles from digital archives. Starting from curated spreadsheets of source articles, the codebase is structured based on the following computational research pipeline:
@@ -13,7 +19,3 @@ The project examines how housing relocation in Singapore was represented and deb
 ## Status
 
 Work in progress. Setup instructions, usage, and results will be added as the project progresses.
-
-## Acknowledgements
-
-This project is advised by [A/P Chan Cheow Thia](https://discovery.nus.edu.sg/4390-cheow-thia-chan) and [A/P Seng Guo Quan](https://discovery.nus.edu.sg/4516-guo-quan-seng).
